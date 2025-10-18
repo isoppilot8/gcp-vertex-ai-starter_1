@@ -1,0 +1,2 @@
+# Work Log
+Ensure responsive layout works correctly on large desktops
